@@ -26,7 +26,7 @@ Die Besetzung ist angelehnt an die föderale Struktur der Bundesrepublik Deutsch
 * Mecklenburg-Vorpommern 1
 * Niedersachsen 2
 * Nordrhein-Westfalen 2
-* * Rheinland-Pfalz 1
+* Rheinland-Pfalz 1
 * Saarland 1
 * Sachsen 1
 * Sachsen-Anhalt 1
