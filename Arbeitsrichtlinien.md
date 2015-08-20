@@ -1,4 +1,4 @@
-# Funktionsweise und Aufgaben des Freifunk Advisory Councils (AC)
+# Freifunk Advisory Council (AC)
 
 ## Aufgaben
 * Das AC entscheidet in Streitfragen bei der Vergabe von freifunk.net Subdomains oder API Einträgen
