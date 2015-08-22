@@ -1,4 +1,4 @@
-# Funktionsweise und Aufgaben des Freifunk Advisory Councils (AC)
+# Freifunk Advisory Council (AC)
 
 ## Aufgaben
 * Das AC entscheidet in Streitfragen bei der Vergabe von freifunk.net Subdomains oder API Einträgen
@@ -59,4 +59,4 @@ Jede_r darf Anfragen an das AC per E-Mail richten.
 * Pro Mitglied kann zusätzlich ein Vertreter bestimmt werden, der bei Verhinderung des Mitglieds einspringt oder bei Ausscheiden des Mitglieds bis zur Nach- oder Neubesetzung dessen Aufgaben übernimmt.
 
 ## Reporting
-Das AC verfasst am Ende des Jahres einen zusammenfassenden Bericht, über die Zahl und Art der Anfragen und veröffentlicht diese unter [blog.freifunk.net](http://blog.freifunk.net/).
+Das AC verfasst am Ende des Jahres einen zusammenfassenden Bericht, über die Zahl und Art der Anfragen und veröffentlicht diesen unter [blog.freifunk.net](http://blog.freifunk.net/).
