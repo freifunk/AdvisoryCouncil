@@ -75,8 +75,8 @@ Offene Mitgliederposten:
 * Philippe Käufer (Baden-Württemberg, Wahl ausstehend)
 * Christoph Altrock (Baden-Württemberg, Wahl ausstehend)
 * mar/Freiburg (Baden-Württemberg, Wahl ausstehend)
-* Julian/Bremen (Bremen, Wahl ausstehend)
-* Martin Geno (Bremen, Wahl ausstehend)
+* Martin Müller (Bremen)
+* Julian Kornberger (Bremen, Vertretungsperson/Gast)
 
 ### Themen
 * Hinweis auf begonnenene Schriftstücke im Git, noch nicht zu Ende bearbeitet, kann kurzfristig abgeschlossen werden
