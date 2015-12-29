@@ -14,7 +14,7 @@ Auf dem Camp stand vor allem eine Konstituierende Sitzung, die Erstellung der Ar
 * Christian Staudte (Bayern)
 * Michel Vorsprach (Sachsen-Anhalt)
 * Krischan Jodies (Niedersachsen)
-* Wolf/Münsterland (Nordrhein-Westfalen)
+* Christian Elberfeld (Nordrhein-Westfalen)
 
 ### Themen
 * Mailingliste gründen (öffentlich oder nicht, tendenz eher nicht-öffentlich aber mit archiv, auf anfrage können diskussionsauszüge veröffentlicht werden, das ganze nach z.b. 12-24 monaten, und unter vorbehalt von anonymisierung nichtzustimmender/ehemaliger mitglieder, erreichbar auch von außen, ohne admin-approval, council@lists.freifunk.net)
@@ -95,3 +95,24 @@ Offene Mitgliederposten:
 
 Es gab zahlreiche Anfragen an das Council, inbesondere zu Gebietsüberschneidungen und die Identifikation von Freifunk inbesondere in Zusammenhang mit kommerziellen Aktivitäten.
 
+## August 2015
+* Briefe von Anwaltskanzlei wegen Magenta im Freifunk-Logo/Design - nur zur Information, Vorstand Förderverein Freie Netzwerke e.V. ist hier selbst aktiv
+* Anrufe von Bundesnetzagentur im Bereich Lübeck/Hamburg - Hintergrund CE-Zertifizierungen von Geräten, Freifunk Lübeck bleibt hier selbst aktiv
+* Beobachter im Advisory Council, Moderationsrechte für Advisory Council im Freifunk Forum - geklärt, es handelte sich um Missverständis (es gibt weder Beobachtungssstatus noch eine Kommunikation über das Forum)
+* Parteifunk, Piratenshop und Piratenfreifunk - Meinungsaustausch erfolgt, keine abschließende Entscheidung (notwendig); grundsätzlich sind "Shops" nicht im Sinne von Freifunk, Absprachen sollten hierzu regional erfolgen, Freifunk ist selbst überparteilich, Zusammenarbeit aber auf regionaler Ebene z.T. notwendig / mit positiven Ergebnissen
+
+## September 2015
+* Freifunk in Mülheim an der Ruhr - Anfrage auf Stadtebene, überschneidene Freifunk Communities aktiv; zurückverwiesen an die lokalen Communities zur Klärung, Hinweis auf Freifunkgedanken wie kein Hotspotbetreiber und Mesh ist wichtige Basis
+* "Gemeinschaft Freifunk" / "Freifunk Center" in Overath / Freifunk Markenstreit - hier ist Freifunk Hamburg wie auch der Förderverein bereits aktiv, entspricht klar nicht dem Freifunk Gedanken, Vermischung mit kommerziellen Interessen, persönlicher Kontakt wurde aufgebaut, Anfrage auch bzgl. Freifunk API (dort abgelehnt)
+* Freifunk WML Shop - Förderverein hat Council mit informiert, keine konkrete Frage offen geblieben, Einigung ist bereits direkt erfolgt
+* Spendenbedarfe Flüchtlinge - Info vom Förderverein, keine Aktivitäten notwendig
+* API Eintrag Freifunk Weinstrasse - Info von API Crew, Standpunkte erläutert (Meta-Community vs. lokale Community)
+* API Eintrag Freifunk Rhein-Haardt - selbes Problem wie Weinstrasse, Standpunkte erläutert, wird abschließend lokal geklärt
+* Unabhängigkeit von Advisory Council Mitgliedern - Nachfrage bei Überschneidungen ("Persionalunion") mit anderen Vereinen/Positionen; wird mehrheitlich nicht als Problem gesehen, sollte allerdings stets transparent gemacht werden
+* Google Impact Challenge / Flüchtlingshilfe - Info von Förderverein, maßgeblich offene Diskussion über WLANnews Mailingliste, keine konkreten Fragen offen
+* Project Letter cerowrt FCC firmware lockdown - als Information erhalten, keine konkreten Fragen offen
+
+## Oktober 2015
+* Freifunk in Mülheim an der Ruhr - Anfrage von Sept. 2015 erneuert; Anfrage konnte final nicht vom Advisory Council beantwortet, Christian Elberfeld informierte Stadt
+ 
+In anderen Monaten sind keine Anfragen für das Kalenderjahr 2015 eingetroffen.
