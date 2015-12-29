@@ -44,9 +44,7 @@ Github
 * Änderungen an den Arbeitsrichtlinien werden auf die ML gepostet
 * Änderungen nach dem Veto-Prinzip: wenn nach z.B. 4 Wochen keiner ein Veto eingelegt hat geht die Änderung in Ordnung
 * Wer mit Github nicht zurechtkommt, möge per Mailingliste arbeiten
-* Im Wiki nur kurze Beschreibung des Councils, für den Rest links auf die Github-Dokumente (wenn AR fertig)
-
-Deadline am Kongress oder in 4 Wochen?
+* Im Wiki nur kurze Beschreibung des Councils, für den Rest links auf die Github-Dokumente (wenn AR fertig), Deadline am Kongress oder in 4 Wochen?
 * Abstimmung über konstitiuerende Sitzung ja (am kongress) oder nein (vor kongress online) unentschieden
 * Arbeitsthemen wären da (Firma gründet Community; Telekom-Abmahnungs-Geschichte)
 * Meinung vom Förderverein ist, dass bis zum Kongress keine Themen kommen
@@ -59,7 +57,7 @@ Offene Punkte für Arbeitsrichtlinie
 
 Offene Mitgliederposten:
 * Bremen ist dabei, hatten Bedenken wg. regelmäßiger Treffen
-* Gloschi kümmert sich um Baden-Württemberg (zu viele Mitglieder), Kjo um Berlin (zu wenige)
+* Alexander Klosch kümmert sich um Baden-Württemberg (zu viele Mitglieder), Krischan Jodies um Berlin (zu wenige)
 * Brandenburg bleibt evtl. frei weil zu wenige Communities
 
 ## 32c3 2015/12/28
