@@ -1,18 +1,17 @@
 # Freifunk Advisory Council (AC)
 
 ## Aufgaben
-* Das AC entscheidet in Streitfragen bei der Vergabe von freifunk.net Subdomains oder API Einträgen
+* Das AC entscheidet u.a. in Streitfragen bei der Vergabe von freifunk.net Subdomains oder API Einträgen
 * Beratung und Hilfe zur Beilegung von Streitigkeiten in bzw. zwischen Freifunk Gruppen
 
 ## Zusammenstellung
 Zur Einreichung von Vorschlägen wird benötigt:
 * (Vollständiger) Name
 * Bundesland
-* Community (in API eingetragene Stand 17. April 2015)
-* Email/Kontaktadresse
+* Community (in API eingetragene)
+* E-Mail/Kontaktadresse
 
-Sollten die Einreichungen eines Bundeslandes zahlenmäßig die Anzahl der zu entsendenden Repräsentanten übersteigen, organisieren die Communities des Bundeslandes eine Wahl. Bis dahin bleibt die Position
-unbesetzt.
+Sollten die Einreichungen eines Bundeslandes zahlenmäßig die Anzahl der zu entsendenden Repräsentanten übersteigen, organisieren die Communities des Bundeslandes eine Wahl. Bis dahin bleibt die Position unbesetzt.
 
 Die Besetzung ist angelehnt an die föderale Struktur der Bundesrepublik Deutschland: 21 Mitglieder
 
@@ -39,7 +38,7 @@ Organisiert und kommuniziert wird über eine [Mailingliste](http://lists.freifun
 ## Anfragen
 Jede_r darf Anfragen an das AC per E-Mail richten.
 
-## Abstimmungen im AC über Domain und API Fragen
+## Abstimmungen im AC über eingereichte Fragen
 * Abstimmungsfragen werden nach Darlegung des Sachverhaltes vom AC als Ja/Nein Fragen formuliert.
 * Entscheide werden mit einfacher Mehrheit beschlossen.
 * Keine Antwort gilt als NEIN.
@@ -58,5 +57,5 @@ Jede_r darf Anfragen an das AC per E-Mail richten.
 * Das AC kann Personen mit Zweidrittelmehrheit ausschließen
 * Pro Mitglied kann zusätzlich ein Vertreter bestimmt werden, der bei Verhinderung des Mitglieds einspringt oder bei Ausscheiden des Mitglieds bis zur Nach- oder Neubesetzung dessen Aufgaben übernimmt.
 
-## Reporting
+## Berichte
 Das AC verfasst am Ende des Jahres einen zusammenfassenden Bericht, über die Zahl und Art der Anfragen und veröffentlicht diesen unter [blog.freifunk.net](http://blog.freifunk.net/).
