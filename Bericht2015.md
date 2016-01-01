@@ -24,6 +24,8 @@ Auf dem Camp stand vor allem eine Konstituierende Sitzung, die Erstellung der Ar
 * Zeitrahmen: rückmeldung geben, dass daran gearbeitet wird innerhalb von 4 Wochen, bei überschaubaren Fragestellungen wird eine Restdauer angegeben, diese muss aber nicht eingehalten werden, wenn die Diskussion noch am laufen ist
 * Nächste Schritte: Restliche Posten besetzen, Konstituierendes Treffen am CCCamp im August, Keine sonstigen regelmäßigen Treffen
 
+Protokoll Christian Staudte
+
 ## Camp 2015/08/15
 
 ### Anwesenheit
@@ -60,6 +62,8 @@ Offene Mitgliederposten:
 * Alexander Klosch kümmert sich um Baden-Württemberg (zu viele Mitglieder), Krischan Jodies um Berlin (zu wenige)
 * Brandenburg bleibt evtl. frei weil zu wenige Communities
 
+Protokoll Christian Staudte
+
 ## 32c3 2015/12/28
 
 ### Anwesenheit
@@ -72,7 +76,7 @@ Offene Mitgliederposten:
 * Michael Reinhard (Schleswig-Holstein)
 * Philippe Käufer (Baden-Württemberg, Wahl ausstehend)
 * Christoph Altrock (Baden-Württemberg, Wahl ausstehend)
-* mar/Freiburg (Baden-Württemberg, Wahl ausstehend)
+* Markus Kohls (Baden-Württemberg, Wahl ausstehend)
 * Martin Müller (Bremen)
 * Julian Kornberger (Bremen, Vertretungsperson/Gast)
 
@@ -90,6 +94,8 @@ Offene Mitgliederposten:
 * einige bekannte lokale Problem wurden erneut besprochen
 * kurze Aussprache zum Status der „Wahl“ der einzelnen Vertreter
 * bitte an die Bundesländer ihre Vertreter bei ihren nächsten Treffen final zu bestimmen
+
+Protokoll Mathias Mahnke
 
 # Anfragen
 
@@ -116,3 +122,5 @@ Es gab zahlreiche Anfragen an das Council, inbesondere zu Gebietsüberschneidung
 * Freifunk in Mülheim an der Ruhr - Anfrage von Sept. 2015 erneuert; Anfrage konnte final nicht vom Advisory Council beantwortet, Christian Elberfeld informierte Stadt
  
 In anderen Monaten sind keine Anfragen für das Kalenderjahr 2015 eingetroffen.
+
+Zusammenfassung Mathias Mahnke
